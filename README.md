@@ -50,7 +50,7 @@
             <li><strong>Comparative Analysis:</strong> Compare COVID-19 data between different states or regions to identify trends and disparities.</li>
         </ul>
 
-        <p>For more Tableau Public Dashboards by Prashnnaki Gedam, visit the <a href="#">source page</a>.</p>
+        <p>For more Tableau Public Dashboards by Prashnnaki Gedam, visit the <a href="http://bit.ly/47mLt8w">Prashnnaki Gedam Tableau Public Dashboards</a>.</p>
     </div>
 </body>
 </html>
