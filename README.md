@@ -1,20 +1,56 @@
-# covid-19-in-india-dashboard-with-tableau
-📊 Excited to share my latest Tableau project! 🦠🇮🇳
-In these challenging times, I wanted to contribute in a meaningful way. Introducing my COVID-19 Data Dashboard for India, created using Tableau. 📈 Check out the dashboard by using the following link: http://bit.ly/47mLt8w
-#tableau #tableaudeveloper #datavisualization
-Creating a COVID-19 dashboard project using Tableau for India involves collecting relevant data and visualizing it in a meaningful way to provide insights into the pandemic's impact. 
- Design the layout and appearance of your dashboard. Consider the following elements:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COVID-19 Data Dashboard - India</title>
+    <style>
+        /* Add your CSS styling here */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 20px;
+        }
+        .dashboard-info {
+            max-width: 800px;
+            margin: auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        .dashboard-info h2 {
+            color: #007BFF;
+        }
+        .dashboard-info p {
+            margin-bottom: 10px;
+        }
+        .dashboard-info a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="dashboard-info">
+        <h2>📊 COVID-19 Data Dashboard for India 🇮🇳</h2>
+        <p>Excited to share my latest Tableau project! In these challenging times, I wanted to contribute in a meaningful way. Introducing my COVID-19 Data Dashboard for India, created using Tableau. Check out the dashboard by using the following link:</p>
+        <a href="http://bit.ly/47mLt8w">View Dashboard</a>
 
-   <b>Title and Introduction:   </b> Provide a title that clearly indicates the purpose of the dashboard. Include a brief introduction to explain what the dashboard displays. <br>
-    <b>Key Metrics: </b> Display the most important metrics like total cases, active cases, recovered cases, deaths, and vaccination rates prominently at the top of the dashboard.<br>
-     <b>Time Series Graphs: </b> line charts or area charts to show the progression of COVID-19 cases over time. You can include separate charts for daily cases, deaths, and recoveries.<br>
-     <b>Geographical Visualization: </b> Add a map to show the distribution of cases across different states or regions in India. Use color coding to represent the severity of cases.<br>
-      <b>Vaccination Progress:<b>Include a visualization that shows the progress of vaccination efforts, including the number of doses administered and the percentage of the population vaccinated.<br>
-     <b>Testing Data: </b> Display the number of tests conducted and the positivity rate in a clear manner.<br>
-  <b> Comparative Analysis: </b> Compare COVID-19 data between different states or regions to identify trends and disparities.<br>
+        <h2>Creating a COVID-19 Dashboard with Tableau</h2>
+        <p>A COVID-19 dashboard project using Tableau for India involves collecting relevant data and visualizing it in a meaningful way to provide insights into the pandemic's impact. Here are the key elements to consider:</p>
+        <ul>
+            <li><strong>Title and Introduction:</strong> Provide a title that clearly indicates the purpose of the dashboard. Include a brief introduction to explain what the dashboard displays.</li>
+            <li><strong>Key Metrics:</strong> Display the most important metrics like total cases, active cases, recovered cases, deaths, and vaccination rates prominently at the top of the dashboard.</li>
+            <li><strong>Time Series Graphs:</strong> Use line charts or area charts to show the progression of COVID-19 cases over time. Include separate charts for daily cases, deaths, and recoveries.</li>
+            <li><strong>Geographical Visualization:</strong> Add a map to show the distribution of cases across different states or regions in India. Use color coding to represent the severity of cases.</li>
+            <li><strong>Vaccination Progress:</strong> Include a visualization that shows the progress of vaccination efforts, including the number of doses administered and the percentage of the population vaccinated.</li>
+            <li><strong>Testing Data:</strong> Display the number of tests conducted and the positivity rate in a clear manner.</li>
+            <li><strong>Comparative Analysis:</strong> Compare COVID-19 data between different states or regions to identify trends and disparities.</li>
+        </ul>
 
-Check out the dashboard by using the following link:
-
-Prashnnaki Gedam Tableau Public Dashboards
-
-#tableau #tableaudeveloper #datavisualization #bideveloper 
+        <p>For more Tableau Public Dashboards by Prashnnaki Gedam, visit the <a href="http://bit.ly/47mLt8w">source page</a>.</p>
+    </div>
+</body>
+</html>
