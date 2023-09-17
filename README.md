@@ -3,41 +3,42 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>COVID-19 Data Dashboard - India</title>
+    <title>COVID-19 Data Dashboard for India 🇮🇳</title>
     <style>
-        /* Add your CSS styling here */
         body {
             font-family: Arial, sans-serif;
             background-color: #f0f0f0;
-            margin: 0;
+            margin: 20px;
             padding: 20px;
         }
-        .dashboard-info {
-            max-width: 800px;
-            margin: auto;
+        .dashboard-section {
             background-color: #fff;
             padding: 20px;
             border-radius: 10px;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
         }
-        .dashboard-info h2 {
+        h2 {
             color: #007BFF;
         }
-        .dashboard-info p {
-            margin-bottom: 10px;
+        ul {
+            list-style-type: disc;
+            padding-left: 20px;
         }
-        .dashboard-info a {
+        a {
             color: #007BFF;
             text-decoration: none;
         }
     </style>
 </head>
 <body>
-    <div class="dashboard-info">
+    <div class="dashboard-section">
         <h2>📊 COVID-19 Data Dashboard for India 🇮🇳</h2>
         <p>Excited to share my latest Tableau project! In these challenging times, I wanted to contribute in a meaningful way. Introducing my COVID-19 Data Dashboard for India, created using Tableau. Check out the dashboard by using the following link:</p>
-        <a href="http://bit.ly/47mLt8w">View Dashboard</a>
+        <a href="#">View Dashboard</a>
+    </div>
 
+    <div class="dashboard-section">
         <h2>Creating a COVID-19 Dashboard with Tableau</h2>
         <p>A COVID-19 dashboard project using Tableau for India involves collecting relevant data and visualizing it in a meaningful way to provide insights into the pandemic's impact. Here are the key elements to consider:</p>
         <ul>
@@ -49,8 +50,10 @@
             <li><strong>Testing Data:</strong> Display the number of tests conducted and the positivity rate in a clear manner.</li>
             <li><strong>Comparative Analysis:</strong> Compare COVID-19 data between different states or regions to identify trends and disparities.</li>
         </ul>
+    </div>
 
-        <p>For more Tableau Public Dashboards by Prashnnaki Gedam, visit the <a href="http://bit.ly/47mLt8w">Prashnnaki Gedam Tableau Public Dashboards</a>.</p>
+    <div class="dashboard-section">
+        <p>For more Tableau Public Dashboards by Prashnnaki Gedam, visit the <a href="#">source page</a>.</p>
     </div>
 </body>
 </html>
