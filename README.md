@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COVID-19 Data Dashboard - India</title>
     <style>
         /* Add your CSS styling here */
         body {
@@ -49,7 +50,7 @@
             <li><strong>Comparative Analysis:</strong> Compare COVID-19 data between different states or regions to identify trends and disparities.</li>
         </ul>
 
-        <p>For more Tableau Public Dashboards by Prashnnaki Gedam, visit the <a href="http://bit.ly/47mLt8w">source page</a>.</p>
+        <p>For more Tableau Public Dashboards by Prashnnaki Gedam, visit the <a href="#">source page</a>.</p>
     </div>
 </body>
 </html>
