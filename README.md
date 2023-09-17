@@ -1,9 +1,5 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>COVID-19 Data Dashboard for India 🇮🇳</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -32,13 +28,11 @@
     </style>
 </head>
 <body>
-    <div class="dashboard-section">
+  
         <h2>📊 COVID-19 Data Dashboard for India 🇮🇳</h2>
         <p>Excited to share my latest Tableau project! In these challenging times, I wanted to contribute in a meaningful way. Introducing my COVID-19 Data Dashboard for India, created using Tableau. Check out the dashboard by using the following link:</p>
         <a href="#">View Dashboard</a>
-    </div>
 
-    <div class="dashboard-section">
         <h2>Creating a COVID-19 Dashboard with Tableau</h2>
         <p>A COVID-19 dashboard project using Tableau for India involves collecting relevant data and visualizing it in a meaningful way to provide insights into the pandemic's impact. Here are the key elements to consider:</p>
         <ul>
@@ -50,10 +44,8 @@
             <li><strong>Testing Data:</strong> Display the number of tests conducted and the positivity rate in a clear manner.</li>
             <li><strong>Comparative Analysis:</strong> Compare COVID-19 data between different states or regions to identify trends and disparities.</li>
         </ul>
-    </div>
 
-    <div class="dashboard-section">
         <p>For more Tableau Public Dashboards by Prashnnaki Gedam, visit the <a href="#">source page</a>.</p>
-    </div>
+
 </body>
 </html>
