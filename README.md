@@ -5,7 +5,7 @@
 ##  📊  COVID-19 Data Dashboard for India 🇮🇳
 
 📊 Excited to share my latest Tableau project! 🦠🇮🇳
-In these challenging times, I wanted to contribute in a meaningful way. Introducing my COVID-19 Data Dashboard for India, created using Tableau. Check out the dashboard by using the following link:
+In these challenging times, I wanted to contribute in a meaningful way. Introducing my COVID-19 Data Dashboard for India, created using Tableau. Check out the dashboard by using the following link::
 [View Dashboards](http://bit.ly/47mLt8w)
 ## Creating a COVID-19 Dashboard with Tableau
 
