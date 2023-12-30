@@ -2,7 +2,7 @@
 
 <div align="center"><img src="https://github.com/prashgedam/covid-19-in-india-dashboard-with-tableau/blob/main/Covid-19%20in%20India%20Dashboard.png" width="900"/></div>
 
-##  📊  COVID-19 Data Dashboard for India 🇮🇳
+##  📊  COVID-19 Data Dashboard for India - 🇮🇳
 
 📊 Excited toshare my latest Tableau project! 🦠🇮🇳
 In these challenging times, I wanted to contribute in meaningful way. Introducing my COVID 19 Data Dashboard for India, created using Tableau. Check out the dashboard by using the following link::
